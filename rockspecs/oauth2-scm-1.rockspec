@@ -1,7 +1,7 @@
 package = "oauth2"
 version = "scm-1"
 source = {
-	url = "https://github.com/moonlibs/oauth2"
+	url = "git+https://github.com/moonlibs/oauth2"
 }
 description = {
 	homepage = "https://github.com/moonlibs/oauth2",
